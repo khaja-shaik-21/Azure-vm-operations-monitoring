@@ -1,9 +1,3 @@
-
----
-
-# 📄 3️⃣ docs/nsg-configuration.md
-
-```md
 # Network Security Group (NSG) Configuration
 
 ## NSG Details
