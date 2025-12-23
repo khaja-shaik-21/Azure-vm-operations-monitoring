@@ -12,7 +12,7 @@ The project simulates real-world cloud support activities such as VM lifecycle m
 
 ---
 
-## 🚀 Key Features
+## Key Features
 - Azure Linux Virtual Machine (Ubuntu 22.04)
 - Secure networking using Virtual Network and Network Security Group (NSG)
 - SSH and HTTP access control
